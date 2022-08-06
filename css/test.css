@@ -1,0 +1,95 @@
+body{
+	font-family: sans-serif;
+	background: rgb(221, 235, 233);
+}
+h1{
+	font-size: 30px;
+	color: rgb(171, 245, 178);
+	font-family:cursive;
+}
+.container{
+	display: flex;
+	margin:50px auto;
+	padding: 30px 20px;
+	width: 70%;
+}
+input{
+	display: block;
+}
+.login{
+	background: rgb(37, 48, 38);
+	text-align: center;
+	color: white;
+}
+.put{
+	padding-left: 130px;
+}
+input{
+	padding: 12px;
+	width: 50%;
+	border-color: white;
+}
+button{
+	padding: 10px;
+	width: 30%;
+	border-radius: 2em;
+	border: none;
+	background: rgb(171, 245, 178);
+}
+.boxes{
+	height: 100px;
+	width: 100px;
+	background: grey;
+	margin: 10px;
+	padding: 10px;
+}
+.section2{
+	display: flex;
+	justify-content: space-between;
+}
+nav{
+	background: rgb(37, 48, 38);
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.aaa{
+	margin:0 50px;
+}
+a{
+	color: rgb(171, 245, 178);
+	text-decoration: none;
+}
+.logo{
+	border-radius: 5em;
+}
+header{
+	font-size: 80px;
+	font-weight: bold;
+	color: rgb(37, 48, 38);
+}
+header p{
+	margin:0;
+}
+.boxes{
+	background: rgb(37, 48, 38);
+	color:white;
+	width: 300px;
+	height: 250px;
+}
+.boxes p{
+	font-size: 40px;
+}
+footer{
+	background: black;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+footer p{
+	font-size: 20px;
+}
+a:hover{
+	color: red;
+}
+
